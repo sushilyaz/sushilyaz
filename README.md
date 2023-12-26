@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<img src="[https://www.codewars.com/users/ваше_имя_пользователя/badges/large](https://www.codewars.com/users/ilyaaz/badges/large)">
-
+[![CodeWars Badge](https://www.codewars.com/users/ilyaaz/badges/large)](https://www.codewars.com/users/ilyaaz)
 <!--
 **sushilyaz/sushilyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
